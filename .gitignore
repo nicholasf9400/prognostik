@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+/.quarto/
+prognostik.docx
+prognostik.html
+/prognostik_files

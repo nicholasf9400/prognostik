@@ -1,5 +1,52 @@
 ---
-title: "Prognostik - Noter"
+title: "Prognose - Noter"
+format:
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
 ---
 
-## Prognostik - Noter
+## Definition
+
+Prognose er prædiktion (forudsigelse) af sundhedstilstande, såsom sygdomme, tilbagefald eller progression. Ligeledes kan prognose være at indele patienter efter risikoen for respons til en behandling eller for at udvælge patienter til en bestemt medicinsk intervention (companion diagnostics).
+
+## Typer af prognostiske studier
+
+Der findes overordnet set 4 typer prognostiske studier:
+
+1.  **Gruppe prognose**
+
+    Undersøger prognosen af en gruppe af patienter. Opgør incidensen af en hændelse til et bestemt tidspunkt (kumulativ incidens). Dette er ikke komparativt og derfor ikke yderligere beskrevet.
+
+2.  **Prognostiske faktorer**
+
+    Prognostiske faktorer er enkeltstående patientkarakteristika der har indflydelse på patientens prognose. Eksempelvis køn, hvis mænd og kvinder i forskellig grad oplever død.
+
+3.  **Prognostisk model**
+
+    Undersøger prognose i forhold til flere prognostiske faktorer på en gang
+
+4.  **Prædiktion af behandlingseffekt**
+
+## Foretrukne studiedesign
+
+| Type                            | Design              |
+|---------------------------------|---------------------|
+| Gruppe prognose                 | Kohort              |
+| Prognostisk faktor              | Prognostisk kohorte |
+| Prognostisk model               |                     |
+| Prædiktion af behandlingseffekt | RCT                 |
+|                                 |                     |
+
+## Design
+
+Prognose rammesættes ofte med akronymet PICOTS som står for `Population, Indeksfaktor, Comparator, Outcome, Timing,`og`Setting.`
+
+`Timing` relatere sig til hvilken tidshorisont prognose siger noget om. Eksempelvis kan en teknologi sige noget om risiko for blødning indenfor 30 dage eller død indenfor 9 år.
+
+`Setting` handler om
+
+## Effektmål
+
+## Risk of bias
